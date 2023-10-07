@@ -1,0 +1,2 @@
+add_library(CCircularBuffer CCircularBuffer.cpp CCircularBuffer.h)
+add_library(CCircularBufferExt CCircularBufferExt.cpp CCircularBufferExt.h)
